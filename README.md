@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3em;">👋 Hello, I'm Rizky Ramadan!</h1>
+<h1 align="center" style="font-size: 3em;">👋 Hello, I'm Rizky Agmer!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/BHJQrm0Zsgqr8RKLXW/giphy.gif" alt="Welcome GIF" width="400" />
@@ -54,8 +54,8 @@ Currently growing my frontend skills and building more interactive interfaces wi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agmer17&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agmer17&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Agmer17&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agmer17&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
@@ -66,6 +66,9 @@ Currently growing my frontend skills and building more interactive interfaces wi
 
 - **IPB University – Vocational School**  
   Major in _Software Engineering (Rekayasa Perangkat Lunak)_
+  <p align="center">
+    <img src="https://www.ipb.ac.id/wp-content/uploads/2023/12/Logo-IPB-University_Horizontal.png" alt="IPB University" align="middle" />
+  </p>
 
 ---
 
