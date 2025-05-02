@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm Rizky Ramadan!</h1>
+<h1 align="center" style="font-size: 3em;">👋 Hello, I'm Rizky Ramadan!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/BHJQrm0Zsgqr8RKLXW/giphy.gif?cid=ecf05e4762fknqa08dv3vo37i58loagafzv5t6oov08i8f4n&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welcome GIF" width="300" />
+  <img src="https://media.giphy.com/media/BHJQrm0Zsgqr8RKLXW/giphy.gif" alt="Welcome GIF" width="400" />
 </p>
 
 <p align="center">
-  <em>
+  <em style="font-size: 1.3em;">
     A software developer in the making, blending code with a touch of ✨ <strong>Jejepangan</strong> ✨ vibes.
   </em>
 </p>
@@ -77,7 +77,7 @@ When I'm not coding, I dive into anime and Japanese pop culture. My favorites:
 - 🧵 **My Dress-Up Darling (Sono Bisque Doll wa Koi o Suru)** – Marin Kitagawa is GOAT. A muse for creativity and trying new things.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/R1c7rUJA7uMoM/giphy.gif?cid=ecf05e471ox9rmscm35nki4l0wmh8fc2flpjgv9b6y0hf84x&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Anime GIF" width="250" />
+  <img src="https://media.giphy.com/media/R1c7rUJA7uMoM/giphy.gif" alt="Anime GIF" width="350" />
 </p>
 
 ---
@@ -97,6 +97,6 @@ When I'm not coding, I dive into anime and Japanese pop culture. My favorites:
   <a href="https://x.com/Abcbfoap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 1.2em;">
   <strong>Thanks for stopping by! Let's build cool things together 👨‍💻✨</strong>
 </p>
