@@ -24,8 +24,11 @@
 - **Express.js** – 🔥 Proficient! Fast, minimalist, and powerful  
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- **Fastify** – 🔥 Proficient! Blazing fast and modern  
-  ![Fastify](https://img.shields.io/badge/Fastify.js-EE5530?style=for-the-badge&logo=fastify&logoColor=white)
+- **Spring Boot** – 🚀 Powerhouse for building Java-based backends  
+  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+- **Chi (Go)** – ⚡ Lightweight, idiomatic, and clean  
+  ![Chi Router](https://img.shields.io/badge/Chi%20Router-Go%20Lang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🎨 Frontend Development
 
@@ -39,14 +42,14 @@ Currently growing my frontend skills and building more interactive interfaces wi
 
 ### 💻 Programming Languages
 
-- **JavaScript** – Main language of choice
+- **JavaScript** – Main language of choice  
 - **Python** – Versatile and beginner-friendly  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **Java** – Currently learning  
+- **Java** – 🧠 Actively building with Spring Boot now!  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-- **Go (Golang)** – Curious and eager to explore more  
+- **Go (Golang)** – ⚙️ Building APIs with Chi and loving the performance  
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
@@ -76,7 +79,7 @@ Currently growing my frontend skills and building more interactive interfaces wi
 
 When I'm not coding, I dive into anime and Japanese pop culture. My favorites:
 
-- 🎸 **Bocchi the Rock!** – Socially awkward, but passionate and inspiring
+- 🎸 **Bocchi the Rock!** – Socially awkward, but passionate and inspiring  
 - 🧵 **My Dress-Up Darling (Sono Bisque Doll wa Koi o Suru)** – Marin Kitagawa is GOAT. A muse for creativity and trying new things.
 
 <p align="center">
