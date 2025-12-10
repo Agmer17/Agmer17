@@ -14,27 +14,43 @@
 
 ## 🚀 Tech Stack & Tools
 
-### 💻 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-</p>
+🛠️ I'm an enthusiastic backend learner exploring various tools, frameworks, and languages. Here's a glimpse of what I've been working with:
 
 ### 🔧 Backend Development
 
-- **Spring Boot** – 🚀 Building robust Java backends with confidence
-- **Gin (Go)** – ⚡ Fast, clean, and production-ready API development
-- **Node.js & Express.js** – 🔥 Solid foundation for scalable services
-- **Rust** – 🦀 Currently exploring the ecosystem, bit by bit
+- **Node.js** – Actively exploring the ecosystem  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- **Express.js** – 🔥 Proficient! Fast, minimalist, and powerful  
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- **Spring Boot** – 🚀 Powerhouse for building Java-based backends  
+  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+- **Chi (Go)** – ⚡ Lightweight, idiomatic, and clean  
+  ![Chi Router](https://img.shields.io/badge/Chi%20Router-Go%20Lang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🎨 Frontend Development
 
-- **React + TypeScript** – Building modern, type-safe UIs
+Currently growing my frontend skills and building more interactive interfaces with:
+
+- **Vue.js** – Lightweight, elegant, and enjoyable to use  
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+- **React** – Powerful and popular for dynamic UIs  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 💻 Programming Languages
+
+- **JavaScript** – Main language of choice  
+- **Python** – Versatile and beginner-friendly  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Java** – 🧠 Actively building with Spring Boot now!  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+- **Go (Golang)** – ⚙️ Building APIs with Chi and loving the performance  
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
